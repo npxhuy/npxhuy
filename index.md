@@ -1,2 +1,2 @@
 **Holo, it's me again**
-![This is the aoty](https://pbs.twimg.com/media/EDikVHNWkAAI1YN.jpg)
+And this is [Album of the year 2019](https://pitchfork.com/reviews/albums/lana-del-rey-norman-fucking-rockwell/)
