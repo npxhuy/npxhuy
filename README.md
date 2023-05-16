@@ -1,9 +1,6 @@
-- 👋 Holo, It's me again
-- 👀 I’m interested in reading poems, and coding (hopefully). Here is my [favorite poem](./favorite_poem.md)
-- 🌱 I’m currently learning Bioinformatics in Lund
-- I've done this at 1am, I'm tired. Yes I do feel tired but I want to add my [favorite album](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) so here it goes stan Lana Del Rey y'all.
-
-
-Resources:
-- [Markdown Cheat Sheet](./markdown_cheat_sheet.md)
-- [Bash Cheat Sheet](./bash_cheat_sheet.md)
+- 👋 Holo, It's me, Hy, again!
+- 💻 Enjoy coding in bash, R & Python.
+- 👀 Love reading poems. Here is my [favourite poetry book](https://www.goodreads.com/book/show/18585282-salt).
+- 🌱 Study Bioinformatics in Lund University.
+- 📸 I'm also a photographer, been taking photos since 2013. Visiting my [portfolio](https://www.vogue.com/photovogue/photographers/103806) to see my personal work.
+- 🎵 also a music lover as well. Here is my [favorite album](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A). Stan Lana Del Rey y'all.
