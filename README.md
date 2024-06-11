@@ -3,4 +3,4 @@
 - 👀 Love reading poems. Here is my [favourite poetry book](https://www.goodreads.com/book/show/18585282-salt).
 - 🌱 Study Bioinformatics in Lund University.
 - 📸 I'm also a photographer, been taking photos since 2013. Visiting my [portfolio](https://www.vogue.com/photovogue/photographers/103806) to see my personal work.
-- 🎵 also a music lover as well. Here is my [favorite album](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A). Stan Lana Del Rey y'all.
+- 🎵 also a music lover as well. Here is my favorite album, [NRF!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A). Stan Lana Del Rey y'all. And also this amazing masterpiece [Punisher](https://www.youtube.com/watch?v=X3CYZ0zCY6M&list=PLATeyS5bPJiGZhPiDEOXpWmuFa-IceqZk).
